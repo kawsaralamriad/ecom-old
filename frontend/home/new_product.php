@@ -1,5 +1,5 @@
- <!-- ? New Product Start -->
- <section class="new-product-area section-padding30">
+        <!-- ? New Product Start -->
+        <section class="new-product-area section-padding30">
             <div class="container">
                 <!-- Section tittle -->
                 <div class="row">

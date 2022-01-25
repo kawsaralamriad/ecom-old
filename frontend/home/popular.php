@@ -1,5 +1,5 @@
-  <!--? Popular Items Start -->
-  <div class="popular-items section-padding30">
+        <!--? Popular Items Start -->
+        <div class="popular-items section-padding30">
             <div class="container">
                 <!-- Section tittle -->
                 <div class="row justify-content-center">

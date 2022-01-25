@@ -1,5 +1,5 @@
-<!--? Shop Method Start-->
-<div class="shop-method-area">
+        <!--? Shop Method Start-->
+        <div class="shop-method-area">
             <div class="container">
                 <div class="method-wrapper">
                     <div class="row d-flex justify-content-between">

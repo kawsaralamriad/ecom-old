@@ -1,2 +1,2 @@
-# ecom is an ecommerce project
-## this project will be developed by php, mysql, html, css etc
+# Ecom is an php ecommerce project
+## this project will be develop by php, mysql
